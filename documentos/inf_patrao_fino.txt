@@ -1,7 +1,0 @@
-flocov2 [9823,8724] [20,79 18,47] 1200 transparencia
-centrov1[3066,1605][25,96 13,59] 1200 blanco
-espiralbase [8152,8568] [17,26 18,14] 1200 blanco
-espiralbasev2 [6929,5531] [14,67 11,71] 1200 transparencia
-espiralbasev3 [6926,5728] [14,66 12,12] 1200 transparencia
-pingente [6926,5728] [14,66 12,12] 1200 transparencia
-flocov1 [8252,7352] [17,5 15,2] 1200 transparencia

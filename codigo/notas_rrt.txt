@@ -1,5 +1,0 @@
-
-ide basico python 
-fringe needs pip install matplotlib e numpy
-barcode need pip install barcode generates error...specific folder https://github.com/WhyNotHugo/python-barcode/issues/63
-barcodev2 need pip install pillow
