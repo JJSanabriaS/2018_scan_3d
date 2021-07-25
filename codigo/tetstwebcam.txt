@@ -1,0 +1,3 @@
+nuevo teste con multithread
+
+https://stackoverflow.com/questions/29664399/capturing-video-from-two-cameras-in-opencv-at-once
