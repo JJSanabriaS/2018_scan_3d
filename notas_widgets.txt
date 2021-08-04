@@ -1,0 +1,17 @@
+teste configuracion wxwidgets...2/ag  10:24 (compilacion) 11:38  https://www.bing.com/videos/search?q=wxwidgets+visual+studio+2019&docid=608034482954000134&mid=50FFEC891D92DE240DB750FFEC891D92DE240DB7&view=detail&FORM=VIRE
+generando instalador    (https://www.youtube.com/watch?v=fehVTLNQorQ)                			14:10 - 14:40
+cross gui https://www.youtube.com/watch?v=FOIbK4bJKS8&list=WL&index=1&t=772s  18:25
+
+
+problema relatado por luiz-->https://github.com/jarulraj/sqlcheck/issues/20 librerias faltantes..(respuesta de Suleman-Elahi commented on 24 Jan 2019)
+			  -->https://stackoverflow.com/questions/14749662/microsoft-visual-studio-c-c-runtime-library-static-dynamic-linking/14752373#14752373 (respuesta hans passant para c/c++)
+
+
+
+montagem maquina virtual para testar otros ambientes sin opciones de programacion...
+
+
+
+
+
+
