@@ -1,0 +1,8 @@
+* gui com C++ (mas rapida) posivel problema com dlls msvcp14d, vcruntime140d, ucrtbased
+  cantidad testes 10
+* gui com C#  (un poco mas lenta) sin problemas en instalacion pura
+   cantidad testes 6
+* gui com Splash problemas com api-ms-win-crt-runtime-l1-1-0dll ubicacao na maquina --> D:\programdata\visual2019\Team Tools\DiagnosticsHub\Device\x86
+  inclusao da dll gera ero 0xc00007b
+   cantidad testes 20
+
